@@ -1,0 +1,541 @@
+﻿R;Nome;Squadra;Qt.A;FVM
+P;Meret;Napoli;19;74
+P;Provedel;Lazio;16;63
+P;Silvestri;Udinese;15;34
+P;Vicario;Empoli;15;37
+P;Szczesny;Juventus;14;62
+P;Falcone;Lecce;14;27
+P;Rui Patricio;Roma;14;60
+P;Onana;Inter;14;57
+P;Milinkovic-Savic V.;Torino;13;38
+P;Musso;Atalanta;13;46
+P;Carnesecchi;Cremonese;12;15
+P;Sepe;Salernitana;11;7
+P;Maignan;Milan;11;60
+P;Montipo';Verona;11;18
+P;Di Gregorio;Monza;11;32
+P;Consigli;Sassuolo;10;24
+P;Audero;Sampdoria;10;12
+P;Skorupski;Bologna;9;20
+P;Terracciano;Fiorentina;9;38
+P;Tatarusanu;Milan;8;4
+P;Handanovic;Inter;8;4
+P;Dragowski;Spezia;8;18
+P;Perin;Juventus;7;4
+P;Sportiello;Atalanta;6;1
+P;Zoet;Spezia;5;1
+P;Ochoa;Salernitana;3;11
+P;Pegolo;Sassuolo;2;1
+P;Gollini;Napoli;2;1
+P;Mirante;Milan;1;1
+P;Sarr M.;Cremonese;1;1
+P;Lamanna;Monza;1;1
+P;Ujkani;Empoli;1;1
+P;Berisha;Torino;1;1
+P;Marchetti;Spezia;1;1
+P;Perilli;Verona;1;1
+P;Padelli;Udinese;1;1
+P;Perisan;Empoli;1;1
+P;Bardi;Bologna;1;1
+P;Cordaz;Inter;1;1
+P;Pinsoglio;Juventus;1;1
+P;Fiorillo;Salernitana;1;1
+P;Cragno;Monza;1;1
+P;Sirigu;Fiorentina;1;1
+P;Cerofolini;Fiorentina;1;1
+P;Rossi F.;Atalanta;1;1
+P;Ravaglia F.;Bologna;1;1
+P;Brancolini;Lecce;1;1
+P;Bleve;Lecce;1;1
+P;Berardi A.;Verona;1;1
+P;Russo A.;Sassuolo;1;1
+P;Gemello;Torino;1;1
+P;Ravaglia;Sampdoria;1;1
+P;Boer;Roma;1;1
+P;Adamonis;Lazio;1;1
+P;Marfella;Napoli;1;1
+P;Zovko;Spezia;1;1
+P;Piana;Udinese;1;1
+P;Bagnolini;Bologna;1;1
+P;Luis Maximiano;Lazio;1;1
+P;Svilar;Roma;1;1
+P;Sorrentino A.;Monza;1;1
+P;Ciezkowski;Cremonese;1;1
+P;Saro;Cremonese;1;1
+P;Vasquez D.;Milan;1;1
+P;Turk;Sampdoria;1;1
+D;Dimarco;Inter;19;47
+D;Smalling;Roma;19;40
+D;Carlos Augusto;Monza;19;37
+D;Doig;Verona;18;45
+D;Posch;Bologna;18;33
+D;Kim;Napoli;16;43
+D;Di Lorenzo;Napoli;15;48
+D;Danilo;Juventus;15;41
+D;Udogie;Udinese;15;36
+D;Parisi;Empoli;15;23
+D;Mario Rui;Napoli;14;39
+D;Romagnoli;Lazio;14;29
+D;Hernandez T.;Milan;14;52
+D;Bastoni S.;Spezia;14;23
+D;Mazzocchi;Salernitana;14;20
+D;Baschirotto;Lecce;14;40
+D;Valeri;Cremonese;14;19
+D;Toloi;Atalanta;12;18
+D;Mancini;Roma;12;26
+D;Ibanez;Roma;12;21
+D;Tomori;Milan;12;26
+D;Ebuehi;Empoli;12;10
+D;Scalvini;Atalanta;12;24
+D;Schuurs;Torino;12;35
+D;Juan Jesus;Napoli;11;16
+D;Depaoli;Verona;11;14
+D;Demiral;Atalanta;11;20
+D;Rodrigo Becao;Udinese;11;20
+D;Maehle;Atalanta;11;22
+D;Dumfries;Inter;11;30
+D;Bijol;Udinese;11;15
+D;Bastoni;Inter;10;32
+D;Gosens;Inter;10;13
+D;Darmian;Inter;10;23
+D;Bremer;Juventus;10;33
+D;Sernicola;Cremonese;10;14
+D;Rrahmani;Napoli;10;36
+D;Vojvoda;Torino;10;15
+D;Perez N.;Udinese;10;16
+D;Holm;Spezia;10;20
+D;Milenkovic;Fiorentina;9;28
+D;Reca;Spezia;9;18
+D;Martinez Quarta;Fiorentina;9;13
+D;Casale;Lazio;9;28
+D;Olivera;Napoli;9;8
+D;Skriniar;Inter;8;28
+D;Rodriguez R.;Torino;8;12
+D;Marusic;Lazio;8;17
+D;Lazzari;Lazio;8;30
+D;Augello;Sampdoria;8;11
+D;Kyriakopoulos;Bologna;8;9
+D;Kalulu;Milan;8;25
+D;Llorente D.;Roma;8;15
+D;Cambiaso;Bologna;8;11
+D;Hysaj;Lazio;7;10
+D;Izzo;Monza;7;20
+D;Biraghi;Fiorentina;7;24
+D;Medel;Bologna;7;8
+D;Bonucci;Juventus;7;15
+D;Calabria;Milan;7;20
+D;Luperto;Empoli;7;15
+D;Acerbi;Inter;7;25
+D;Spinazzola;Roma;7;10
+D;Lykogiannis;Bologna;7;9
+D;Djidji;Torino;7;12
+D;Gallo;Lecce;7;8
+D;Ampadu;Spezia;7;13
+D;Singo;Torino;7;16
+D;Mari';Monza;7;18
+D;Ismajli;Empoli;7;13
+D;Dodo';Fiorentina;7;18
+D;De Vrij;Inter;6;12
+D;Faraoni;Verona;6;14
+D;Ceccherini;Verona;6;14
+D;Hateboer;Atalanta;6;18
+D;Umtiti;Lecce;6;17
+D;Buongiorno;Torino;6;12
+D;Aina;Torino;6;14
+D;Lazaro;Torino;6;8
+D;Zortea;Sassuolo;6;10
+D;Caldirola;Monza;6;12
+D;Birindelli;Monza;6;10
+D;Gendrey;Lecce;6;11
+D;Lucumi';Bologna;6;15
+D;Hien;Verona;6;19
+D;Ehizibue;Udinese;6;8
+D;Patric;Lazio;5;6
+D;Ferrari G.;Sassuolo;5;18
+D;Fazio;Salernitana;5;9
+D;Gravillon;Torino;5;7
+D;Marchizza;Sassuolo;5;1
+D;Rogerio;Sassuolo;5;14
+D;Marlon;Monza;5;13
+D;Pellegrini Lu.;Lazio;5;14
+D;Gunter;Sampdoria;5;10
+D;Troost-Ekong;Salernitana;5;9
+D;Soumaoro;Bologna;5;13
+D;Erlic;Sassuolo;5;17
+D;Ceccaroni;Lecce;5;7
+D;Soppy;Atalanta;5;7
+D;Ferrari A.;Cremonese;4;10
+D;Masina;Udinese;4;6
+D;Zappacosta;Atalanta;4;12
+D;Bianchetti;Cremonese;4;5
+D;Gyomber;Salernitana;4;10
+D;Alex Sandro;Juventus;4;14
+D;Pezzella Giu.;Lecce;4;8
+D;Djimsiti;Atalanta;4;8
+D;Bereszynski;Napoli;4;7
+D;Palomino;Atalanta;4;17
+D;Nuytinck;Sampdoria;4;13
+D;Magnani;Verona;4;8
+D;Nikolaou;Spezia;4;8
+D;Terzic;Fiorentina;4;3
+D;Igor;Fiorentina;4;15
+D;Toljan;Sassuolo;4;10
+D;Dawidowicz;Verona;4;13
+D;Celik;Roma;4;7
+D;Ballo-Toure';Milan;4;4
+D;Stojanovic;Empoli;4;6
+D;Amian;Spezia;4;8
+D;Bradaric;Salernitana;4;7
+D;Daniliuc;Salernitana;4;7
+D;Pongracic;Lecce;4;5
+D;Zima;Torino;4;6
+D;Quagliata;Cremonese;4;4
+D;Aiwu;Cremonese;4;4
+D;Lochoshvili;Cremonese;4;8
+D;Bronn;Salernitana;4;7
+D;Thiaw;Milan;4;3
+D;Romagnoli S.;Lecce;3;6
+D;Ghiglione;Cremonese;3;4
+D;De Sciglio;Juventus;3;7
+D;Caldara;Spezia;3;8
+D;Venuti;Fiorentina;3;5
+D;Karsdorp;Roma;3;2
+D;Kjaer;Milan;3;11
+D;Okoli;Atalanta;3;3
+D;Bellanova;Inter;3;4
+D;Lovato;Salernitana;3;8
+D;Dest;Milan;3;8
+D;Amione;Sampdoria;3;9
+D;Ruggeri;Atalanta;3;4
+D;Zanoli;Sampdoria;3;2
+D;De Winter;Empoli;3;8
+D;Ruan;Sassuolo;3;7
+D;Ebosse;Udinese;3;3
+D;Zeefuik;Verona;3;5
+D;Wisniewski;Spezia;3;5
+D;Dermaku;Lecce;2;2
+D;D'ambrosio;Inter;2;3
+D;Rugani;Juventus;2;6
+D;De Silvestri;Bologna;2;4
+D;Chiriches;Cremonese;2;7
+D;Murru;Sampdoria;2;4
+D;Bonifazi;Bologna;2;5
+D;Donati;Monza;2;2
+D;Walukiewicz;Empoli;2;2
+D;Ranieri L.;Fiorentina;2;1
+D;Gabbia;Milan;2;2
+D;Kumbulla;Roma;2;5
+D;Adopo;Torino;2;3
+D;Pirola;Salernitana;2;3
+D;Tuia;Lecce;2;2
+D;Ferrer;Spezia;2;3
+D;Antov;Monza;2;1
+D;Vasquez;Cremonese;2;7
+D;Ostigard;Napoli;2;8
+D;Coppola D.;Verona;2;3
+D;Cacace;Empoli;2;3
+D;Gatti;Juventus;2;8
+D;Gila;Lazio;2;2
+D;Bayeye;Torino;2;1
+D;Ebosele;Udinese;2;3
+D;Sambia;Salernitana;2;7
+D;Sosa;Bologna;2;1
+D;Moutinho J.;Spezia;2;4
+D;Conti;Sampdoria;1;1
+D;Marrone;Monza;1;1
+D;Tonelli;Empoli;1;1
+D;Murillo;Sampdoria;1;6
+D;Radu;Lazio;1;1
+D;Paletta;Monza;1;1
+D;Florenzi;Milan;1;2
+D;Sala;Spezia;1;3
+D;Fares;Lazio;1;1
+D;Romagna;Sassuolo;1;1
+D;Cassandro;Lecce;1;2
+D;Muldur;Sassuolo;1;2
+D;Amey;Bologna;1;1
+D;Zanotti;Inter;1;1
+D;Buta;Udinese;1;1
+D;Abankwah;Udinese;1;1
+D;Guessand A.;Udinese;1;1
+D;Cabal;Verona;1;2
+D;Guarino;Empoli;1;1
+D;Carboni F.;Monza;1;2
+C;Kvaratskhelia;Napoli;33;251
+C;Zaccagni;Lazio;32;138
+C;Strefezza;Lecce;27;70
+C;Milinkovic-Savic;Lazio;26;182
+C;Barella;Inter;26;86
+C;Zielinski;Napoli;25;83
+C;Luis Alberto;Lazio;25;80
+C;Felipe Anderson;Lazio;24;83
+C;Calhanoglu;Inter;22;64
+C;Frattesi;Sassuolo;22;68
+C;Elmas;Napoli;22;40
+C;Miranchuk;Torino;22;82
+C;Koopmeiners;Atalanta;22;70
+C;Vlasic;Torino;22;61
+C;Zambo Anguissa;Napoli;21;45
+C;Diaz B.;Milan;21;43
+C;Samardzic;Udinese;21;24
+C;Pereyra;Udinese;19;48
+C;Politano;Napoli;19;47
+C;Rabiot;Juventus;19;36
+C;Lazovic;Verona;18;56
+C;Ferguson;Bologna;18;43
+C;Ciurria;Monza;18;23
+C;Orsolini;Bologna;17;67
+C;Pessina;Monza;17;38
+C;Lobotka;Napoli;17;42
+C;Kostic;Juventus;17;41
+C;Radonjic;Torino;17;24
+C;Bonaventura;Fiorentina;16;42
+C;Tonali;Milan;16;45
+C;Baldanzi;Empoli;16;52
+C;Lovric;Udinese;16;24
+C;Pellegrini Lo.;Roma;15;58
+C;El Shaarawy;Roma;15;25
+C;Ikone';Fiorentina;15;24
+C;Candreva;Salernitana;14;24
+C;Pasalic;Atalanta;13;36
+C;Bennacer;Milan;13;25
+C;Fagioli;Juventus;13;24
+C;Colpani;Monza;13;8
+C;Pogba;Juventus;12;30
+C;Chiesa;Juventus;12;73
+C;Bandinelli;Empoli;12;12
+C;Matic;Roma;12;13
+C;Mkhitaryan;Inter;12;26
+C;Dominguez;Bologna;12;26
+C;Messias;Milan;12;20
+C;Arslan;Udinese;12;10
+C;Ricci S.;Torino;12;27
+C;Ranocchia F.;Monza;12;5
+C;Saponara;Fiorentina;11;24
+C;Brozovic;Inter;11;36
+C;Verdi;Verona;11;10
+C;Barak;Fiorentina;11;20
+C;Soriano;Bologna;11;14
+C;Vilhena;Salernitana;11;16
+C;Cristante;Roma;10;17
+C;Locatelli;Juventus;10;28
+C;Sensi;Monza;10;20
+C;De Ketelaere;Milan;10;18
+C;Gonzalez J.;Lecce;10;18
+C;Vecino;Lazio;9;8
+C;Duda;Verona;9;15
+C;Marin;Empoli;9;12
+C;Zalewski;Roma;9;22
+C;Bajrami;Sassuolo;9;22
+C;Coulibaly L.;Salernitana;9;12
+C;Miretti;Juventus;9;8
+C;Thorstvedt;Sassuolo;9;13
+C;Hjulmand;Lecce;9;18
+C;De Roon;Atalanta;8;13
+C;Cataldi;Lazio;8;14
+C;Mandragora;Fiorentina;8;10
+C;Linetty;Torino;8;7
+C;Wijnaldum;Roma;8;10
+C;Bourabia;Spezia;8;10
+C;Sottil;Fiorentina;8;10
+C;Agudelo;Spezia;8;12
+C;Maldini;Spezia;8;4
+C;Aebischer;Bologna;8;11
+C;Ederson D.s.;Atalanta;8;25
+C;Blin;Lecce;8;9
+C;Djuricic;Sampdoria;7;12
+C;Haas;Empoli;7;8
+C;Walace;Udinese;7;10
+C;Camara Ma.;Roma;7;6
+C;Paredes;Juventus;6;12
+C;Rovella;Monza;6;15
+C;Tameze;Verona;6;17
+C;Gyasi;Spezia;6;15
+C;Pobega;Milan;6;8
+C;Crnigoj;Salernitana;6;9
+C;Matheus Henrique;Sassuolo;6;15
+C;Volpato;Roma;6;1
+C;Pickel;Cremonese;6;8
+C;Moro N.;Bologna;6;8
+C;Machin;Monza;5;11
+C;Cuadrado;Juventus;5;30
+C;Meite';Cremonese;5;9
+C;Ndombele';Napoli;5;15
+C;Nicolussi Caviglia;Salernitana;5;8
+C;Schouten;Bologna;5;11
+C;Obiang;Sassuolo;5;10
+C;Amrabat;Fiorentina;5;18
+C;Ilic;Torino;5;30
+C;Harroui;Sassuolo;5;5
+C;Asllani;Inter;5;7
+C;Sabiri;Sampdoria;5;13
+C;Terracciano F.;Verona;5;5
+C;Castagnetti;Cremonese;5;8
+C;Oudin;Lecce;5;5
+C;Grassi;Empoli;4;4
+C;Rincon;Sampdoria;4;8
+C;Duncan;Fiorentina;4;11
+C;Miguel Veloso;Verona;4;8
+C;Leris;Sampdoria;4;6
+C;Ekdal;Spezia;4;6
+C;Vieira;Torino;4;8
+C;Esposito Sa.;Spezia;4;8
+C;Henderson L.;Empoli;4;8
+C;Lopez M.;Sassuolo;4;15
+C;Cuisance;Sampdoria;4;9
+C;Saelemaekers;Milan;4;11
+C;Akpa Akpro;Empoli;4;8
+C;Kovalenko;Spezia;4;6
+C;Romero L.;Lazio;4;4
+C;Basic;Lazio;4;6
+C;Ceide;Sassuolo;4;5
+C;D'alessandro;Monza;3;2
+C;Krunic;Milan;3;8
+C;Benassi;Cremonese;3;10
+C;Gagliardini;Inter;3;4
+C;Winks;Sampdoria;3;14
+C;Askildsen;Lecce;3;2
+C;Maggiore;Salernitana;3;8
+C;Maleh;Lecce;3;6
+C;Bianco;Fiorentina;3;1
+C;Vranckx;Milan;3;4
+C;Galdames;Cremonese;3;5
+C;Bohinen;Salernitana;3;8
+C;Marcos Antonio;Lazio;3;6
+C;Fazzini;Empoli;3;2
+C;Sulemana I.;Verona;3;4
+C;Abildgaard;Verona;3;6
+C;Barberis;Monza;2;2
+C;Kastanos;Salernitana;2;4
+C;Vignato;Empoli;2;4
+C;Valoti;Monza;2;8
+C;Bove;Roma;2;1
+C;D'andrea;Sassuolo;2;4
+C;Iling-Junior;Juventus;2;7
+C;Tahirovic;Roma;2;4
+C;Paoletti;Sampdoria;2;1
+C;Cipot;Spezia;2;2
+C;Bakayoko;Milan;1;1
+C;Gaetano;Napoli;1;1
+C;Zurkowski;Spezia;1;17
+C;Castrovilli;Fiorentina;1;7
+C;Demme;Napoli;1;2
+C;Darboe;Roma;1;1
+C;Urbanski;Bologna;1;1
+C;Bertini;Lazio;1;1
+C;Yepes;Sampdoria;1;1
+C;Pyyhtia;Bologna;1;1
+C;Trimboli;Sampdoria;1;1
+C;Pafundi;Udinese;1;1
+C;Helgason;Lecce;1;1
+C;Adli;Milan;1;3
+C;Vignato S.;Monza;1;1
+C;Hrustic;Verona;1;2
+C;Samek;Lecce;1;1
+C;Zerbin;Napoli;1;5
+C;Ilkhan;Sampdoria;1;5
+C;Degli Innocenti;Empoli;1;1
+C;Acella;Cremonese;1;1
+C;Carboni V.;Inter;1;1
+C;Malagrida;Sampdoria;1;1
+C;Faticanti;Roma;1;1
+A;Osimhen;Napoli;42;482
+A;Martinez L.;Inter;37;355
+A;Dybala;Roma;35;239
+A;Vlahovic;Juventus;33;348
+A;Lookman;Atalanta;33;225
+A;Rafael Leao;Milan;32;222
+A;Immobile;Lazio;30;312
+A;Arnautovic;Bologna;29;178
+A;Dia;Salernitana;28;106
+A;Dzeko;Inter;26;86
+A;Milik;Juventus;25;84
+A;Nzola;Spezia;25;127
+A;Beto;Udinese;25;95
+A;Abraham;Roma;24;165
+A;Giroud;Milan;24;182
+A;Lauriente';Sassuolo;22;70
+A;Deulofeu;Udinese;21;12
+A;Berardi;Sassuolo;20;239
+A;Pedro;Lazio;20;40
+A;Lozano;Napoli;20;49
+A;Correa;Inter;19;13
+A;Simeone;Napoli;19;44
+A;Lukaku;Inter;19;192
+A;Thauvin;Udinese;18;56
+A;Di Maria;Juventus;18;88
+A;Cabral;Fiorentina;18;32
+A;Hojlund;Atalanta;18;164
+A;Sanabria;Torino;17;42
+A;Caprari;Monza;17;62
+A;Piatek;Salernitana;17;54
+A;Rebic;Milan;16;20
+A;Bonazzoli;Salernitana;16;20
+A;Zapata D.;Atalanta;16;68
+A;Kouame';Fiorentina;16;20
+A;Gonzalez N.;Fiorentina;16;48
+A;Brekalo;Fiorentina;16;48
+A;Mota;Monza;16;35
+A;Kean;Juventus;15;25
+A;Okereke;Cremonese;15;48
+A;Ceesay;Lecce;15;18
+A;Colombo;Lecce;14;23
+A;Petagna;Monza;13;35
+A;Muriel;Atalanta;13;36
+A;Pinamonti;Sassuolo;13;37
+A;Origi;Milan;13;23
+A;Boga;Atalanta;13;34
+A;Cambiaghi;Empoli;13;8
+A;Dessers;Cremonese;13;32
+A;Ciofani D.;Cremonese;12;7
+A;Gabbiadini;Sampdoria;12;28
+A;Di Francesco F.;Lecce;12;17
+A;Jovic;Fiorentina;12;67
+A;Caputo;Empoli;12;40
+A;Alvarez A.;Sassuolo;12;12
+A;Banda;Lecce;12;12
+A;Barrow;Bologna;11;15
+A;Lammers;Sampdoria;11;20
+A;Success;Udinese;11;20
+A;Zirkzee;Bologna;10;15
+A;Satriano;Empoli;10;16
+A;Djuric;Verona;10;23
+A;Henry;Verona;10;1
+A;Kallon;Verona;9;7
+A;Lasagna;Verona;8;12
+A;Nestorovski;Udinese;8;6
+A;Botheim;Salernitana;8;7
+A;Gytkjaer;Monza;8;10
+A;Solbakken;Roma;8;8
+A;Pellegri;Torino;7;20
+A;Raspadori;Napoli;7;40
+A;Buonaiuto;Cremonese;7;5
+A;Verde;Spezia;6;16
+A;Belotti;Roma;6;10
+A;Ngonge;Verona;6;12
+A;Karamoh;Torino;5;16
+A;Seck;Torino;5;6
+A;Destro;Empoli;4;12
+A;Sansone;Bologna;4;12
+A;Quagliarella;Sampdoria;4;8
+A;Defrel;Sassuolo;4;10
+A;Pjaca;Empoli;4;4
+A;Piccoli;Empoli;4;10
+A;Gaich;Verona;4;6
+A;Soule';Juventus;4;5
+A;Tsadjout;Cremonese;4;5
+A;Shomurodov;Spezia;3;26
+A;Afena-Gyan;Cremonese;3;8
+A;Pussetto;Sampdoria;2;3
+A;Cancellieri;Lazio;2;5
+A;Valencia D.;Salernitana;2;2
+A;Ibrahimovic;Milan;1;15
+A;Oddei;Sassuolo;1;1
+A;Braaf;Verona;1;4
+A;Raimondo;Bologna;1;1
+A;Kaio Jorge;Juventus;1;1
+A;De Luca;Sampdoria;1;1
+A;Voelkerling Persson;Lecce;1;1
+A;Montevago;Sampdoria;1;3
+A;Krollis;Spezia;1;2
+A;Vivaldo;Udinese;1;1
